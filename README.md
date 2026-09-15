@@ -81,7 +81,7 @@ Security,RedTeaming teamwork, documentation, and delivering real-world project s
   I developed an AI-Based Intrusion Detection System that detects malicious network traffic using machine learning. It includes a Flask dashboard for real-time monitoring and provides simple threat analysis to help identify cyber attacks.
 </p>
 <p>
-  <a href="Course report/course_report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="course_report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
