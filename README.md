@@ -129,8 +129,8 @@ During my internship period, I actively participated in multiple community-orien
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/2438b282-08a6-4c64-b219-b9bc7a221a0d" />
-<img src="https://github.com/user-attachments/assets/9d7b2790-f42a-4d8a-bf79-9903ed8558d1" />
+<img src="assets/Photo-1.jpg" />
+<img src="assets/Photo-2.jpg" />
 
 
 ---
